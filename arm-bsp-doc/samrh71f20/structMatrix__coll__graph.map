@@ -1,0 +1,7 @@
+<map id="Matrix" name="Matrix">
+<area shape="rect" id="Node000001" title="Matrix device descriptor." alt="" coords="63,181,127,207"/>
+<area shape="rect" id="Node000002" href="$structMatrix__Registers.html" title="Structure representing MATRIX registers." alt="" coords="29,93,161,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,133,97,181,92,181,92,133"/>
+<area shape="rect" id="Node000003" href="$structPriorityRegisterForSlave.html" title="Structure representing Priority Register for Slave." alt="" coords="5,5,184,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,45,97,93,92,93,92,45"/>
+</map>

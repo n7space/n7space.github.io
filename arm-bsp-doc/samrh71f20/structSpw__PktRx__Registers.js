@@ -1,0 +1,26 @@
+var structSpw__PktRx__Registers =
+[
+    [ "cfg", "structSpw__PktRx__Registers.html#a0729fbc56e5c7f33bb39760581d9bc1d", null ],
+    [ "curbufcfg", "structSpw__PktRx__Registers.html#aede8d47ee021f461fa25b7f7baaa426c", null ],
+    [ "curbufdataaddr", "structSpw__PktRx__Registers.html#a11177c3e7989172a12df7c9a78daee62", null ],
+    [ "curbufdatalen", "structSpw__PktRx__Registers.html#abea07aee7e0d8131598d2ea5d58476ce", null ],
+    [ "curbufpktaddr", "structSpw__PktRx__Registers.html#a8530ec1e200351e252d048e65bdea233", null ],
+    [ "im", "structSpw__PktRx__Registers.html#acba274eaabe5ce2ba4540c69834266b2", null ],
+    [ "imC", "structSpw__PktRx__Registers.html#a816ff749625109526cde2c5c711629f5", null ],
+    [ "imS", "structSpw__PktRx__Registers.html#a5b1bef37682e3aa4cf246be83d63b042", null ],
+    [ "nxtbufcfg", "structSpw__PktRx__Registers.html#a0992d34a83eac6d68f87b0f9c2cfbfe9", null ],
+    [ "nxtbufdataaddr", "structSpw__PktRx__Registers.html#a9c15c59c6bc0f59b1555fc0bf3e22e45", null ],
+    [ "nxtbufdatalen", "structSpw__PktRx__Registers.html#ab33ae90460298e49fe6668e9afb48344", null ],
+    [ "nxtbufpktaddr", "structSpw__PktRx__Registers.html#a31feac77f11d5c79227cc9f6a980238b", null ],
+    [ "piC", "structSpw__PktRx__Registers.html#a8eeb3bdf637e8f68c3f8446d8df85b80", null ],
+    [ "piR", "structSpw__PktRx__Registers.html#a5f8e1a6b02b3bd4b2068681a116321f4", null ],
+    [ "piRcm", "structSpw__PktRx__Registers.html#a2773cec2676bb56ac0742c9474af35fa", null ],
+    [ "piRcs", "structSpw__PktRx__Registers.html#a62c37bd0bd5241b7d4a64becab273efc", null ],
+    [ "piRm", "structSpw__PktRx__Registers.html#a150635ed80ac808622ac73a6ca7c3979", null ],
+    [ "prevbufdatalen", "structSpw__PktRx__Registers.html#a919e3897cf5f78ff307f64c5d1ee8258", null ],
+    [ "prevbufsts", "structSpw__PktRx__Registers.html#a94b4795db238c4e641985584877cee25", null ],
+    [ "reserved1", "structSpw__PktRx__Registers.html#a1bd203e7d75e2de7082aaecaaff8c135", null ],
+    [ "reserved2", "structSpw__PktRx__Registers.html#ad5394155570b458cabcff70bbd8ba49a", null ],
+    [ "status", "structSpw__PktRx__Registers.html#a5571c23b89bbd3701b5cab3585f458b5", null ],
+    [ "swreset", "structSpw__PktRx__Registers.html#a2b1e9ac27a47b6f4f6224a209de4b668", null ]
+];

@@ -1,0 +1,20 @@
+<map id="n7s/bsp/Pmc/ChipConfig.h" name="n7s/bsp/Pmc/ChipConfig.h">
+<area shape="rect" id="Node000001" title="Utility file to ease working with chip config .conf files." alt="" coords="177,5,367,31"/>
+<area shape="rect" id="Node000002" href="$Pmc_8h.html" title=" " alt="" coords="241,79,303,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="275,31,275,65,269,65,269,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,225,88,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="241,95,201,98,154,107,107,125,86,138,67,154,58,167,53,181,48,212,43,211,48,180,54,164,63,150,83,133,105,120,152,102,200,93,240,90"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="237,225,307,251"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="275,104,275,212,269,212,269,104"/>
+<area shape="rect" id="Node000005" href="$ErrorCode_8h.html" title=" " alt="" coords="77,152,235,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="255,106,188,147,185,142,252,102"/>
+<area shape="rect" id="Node000007" href="$PmcPeripheralId_8h_source.html" title=" " alt="" coords="310,152,450,177"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="291,102,352,142,349,147,288,106"/>
+<area shape="rect" id="Node000008" href="$PmcRegisters_8h_source.html" title=" " alt="" coords="475,152,597,177"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="305,99,481,146,480,151,303,104"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="140,180,78,220,75,215,137,175"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="176,175,243,216,240,220,173,180"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="119,225,193,251"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="159,178,159,212,153,212,153,178"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="494,180,321,226,320,221,493,175"/>
+</map>

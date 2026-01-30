@@ -1,0 +1,5 @@
+<map id="Spw_Rx_RxBufferConfig" name="Spw_Rx_RxBufferConfig">
+<area shape="rect" id="Node000001" title="Receive Buffer configuration structure." alt="" coords="5,93,183,119"/>
+<area shape="rect" id="Node000002" href="$structSpw__Rx__RxBufferEntry.html" title="Receive Buffer entry buffer." alt="" coords="9,5,179,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,45,97,93,91,93,91,45"/>
+</map>

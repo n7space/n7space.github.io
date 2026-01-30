@@ -1,0 +1,5 @@
+<map id="Spw_TchHandler" name="Spw_TchHandler">
+<area shape="rect" id="Node000001" title="Structure serving as a time channel callback descriptor." alt="" coords="13,93,141,119"/>
+<area shape="rect" id="Node000002" href="$structSpw__Tch__IrqStatus.html" title="Structure listing triggered Tch interrupts." alt="" coords="5,5,148,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,45,79,93,74,93,74,45"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="n7s/bsp/Gmac/GmacBufferDescriptors.h" name="n7s/bsp/Gmac/GmacBufferDescriptors.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,287,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="66,152,149,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,33,68,51,52,64,39,80,35,97,43,113,57,129,76,143,72,147,54,133,38,116,30,97,34,78,48,60,65,47,102,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="49,79,123,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,33,107,70,102,66,134,29"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="220,152,291,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="207,28,247,46,266,60,280,77,286,93,285,110,274,141,269,139,280,109,281,94,276,80,262,64,245,51,205,33"/>
+<area shape="rect" id="Node000005" href="$Bits_8h.html" title=" " alt="" coords="148,79,267,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="158,29,190,66,186,70,154,33"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="193,106,136,146,133,142,190,102"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="217,103,242,139,238,142,213,106"/>
+</map>

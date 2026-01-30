@@ -1,0 +1,16 @@
+<map id="Twihs" name="Twihs">
+<area shape="rect" id="Node000001" title="Twihs descriptor." alt="" coords="524,124,583,149"/>
+<area shape="rect" id="Node000002" href="$structTwihs__TxHandler.html" title="A descriptor of a byte transmission event handler." alt="" coords="250,5,382,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="396,19,450,31,477,42,502,56,518,71,532,89,550,123,545,125,528,92,515,75,498,60,475,47,448,37,395,25"/>
+<area shape="rect" id="Node000003" href="$structTwihs__RxHandler.html" title="A descriptor of a byte reception event handler." alt="" coords="249,55,383,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="397,72,449,82,501,98,538,122,536,126,499,103,448,87,396,77"/>
+<area shape="rect" id="Node000004" href="$structTwihs__ErrorHandler.html" title="A descriptor of event handler." alt="" coords="243,168,389,193"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="402,168,499,150,523,144,524,149,501,155,403,173"/>
+<area shape="rect" id="Node000005" href="$structTwihs__ErrorFlags.html" title="Twihs transaction error flags structure." alt="" coords="5,137,136,163"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="150,140,160,139,369,133,524,134,524,139,369,139,160,145,150,145"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="150,157,243,169,242,174,149,162"/>
+<area shape="rect" id="Node000006" href="$structByteFifo.html" title="Structure representing single queue instance." alt="" coords="278,217,354,243"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="368,230,433,224,467,215,499,201,513,190,526,176,544,148,548,151,530,179,517,194,501,206,469,220,434,229,368,235"/>
+<area shape="rect" id="Node000007" href="$structTwihs__Registers.html" title="Structure representing Twihs registers." alt="" coords="253,267,379,292"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="392,280,448,272,474,262,498,248,519,226,533,198,548,149,553,150,538,200,523,229,502,252,477,267,449,277,393,286"/>
+</map>

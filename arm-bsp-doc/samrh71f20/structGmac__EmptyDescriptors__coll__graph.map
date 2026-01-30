@@ -1,0 +1,7 @@
+<map id="Gmac_EmptyDescriptors" name="Gmac_EmptyDescriptors">
+<area shape="rect" id="Node000001" title="Structure holding &quot;empty&quot; (guard) descriptors." alt="" coords="148,93,331,119"/>
+<area shape="rect" id="Node000002" href="$structGmac__TxBufferDescriptorEntry.html" title="TX buffer descriptor queue entry." alt="" coords="5,5,228,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,37,224,91,221,95,143,41"/>
+<area shape="rect" id="Node000003" href="$structGmac__RxBufferDescriptorEntry.html" title="RX buffer descriptor queue entry." alt="" coords="251,5,475,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="337,41,258,95,255,91,334,36"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Xdmac_ChannelConfig" name="Xdmac_ChannelConfig">
+<area shape="rect" id="Node000001" title="A structure storing configuration of an XDMAC channel." alt="" coords="700,80,868,105"/>
+<area shape="rect" id="Node000002" href="$structXdmac__ChannelInterrupts.html" title="A structure used to configure interrupt settings for XDMAC." alt="" coords="359,5,549,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="550,30,677,57,746,77,745,82,675,62,549,36"/>
+<area shape="rect" id="Node000003" href="$structXdmac__DataConfig.html" title="A structure used to describe data&#45;specific configuration of a transfer." alt="" coords="381,55,527,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="541,71,700,84,699,89,541,77"/>
+<area shape="rect" id="Node000004" href="$structXdmac__MemsetAndStrideConfig.html" title="A structure used to describe data and microblock striding configuration." alt="" coords="339,104,569,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="583,114,676,109,719,103,720,108,676,114,583,119"/>
+<area shape="rect" id="Node000005" href="$structXdmac__LinkedListConfig.html" title="A structure describing general linked list configuration." alt="" coords="364,153,544,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="558,155,616,147,675,134,718,119,756,103,758,108,720,124,677,139,617,152,558,161"/>
+<area shape="rect" id="Node000006" href="$structXdmac__DescriptorControl.html" title="A structure used to describe configuration of a linked list node descriptor." alt="" coords="5,153,193,179"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="207,163,363,163,363,169,207,169"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="Pwm" name="Pwm">
+<area shape="rect" id="Node000001" title="Structure representing a PWM instance." alt="" coords="586,288,641,313"/>
+<area shape="rect" id="Node000002" href="$structPwm__Registers.html" title="structure representing PWM registers." alt="" coords="443,191,565,216"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="514,228,523,246,535,262,560,279,587,290,585,295,557,284,532,266,518,249,509,230"/>
+<area shape="rect" id="Node000003" href="$structPwm__BaseRegisters.html" title="Structure representing PWM base registers." alt="" coords="240,93,395,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="353,122,483,188,480,193,351,127"/>
+<area shape="rect" id="Node000004" href="$structPwm__ComparisonRegisters.html" title="Structure representing a PWM comparison configuration registers." alt="" coords="5,5,205,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="145,34,225,67,287,91,286,96,223,72,143,39"/>
+<area shape="rect" id="Node000005" href="$structPwm__ChannelRegisters.html" title="Structure representing PWM Channel specific registers." alt="" coords="230,5,405,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="320,45,320,93,315,93,315,45"/>
+<area shape="rect" id="Node000006" href="$structPwm__AdditionalChannelRegisters.html" title=" " alt="" coords="429,5,670,31"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="506,38,349,96,348,91,504,33"/>
+<area shape="rect" id="Node000007" href="$structPwm__AdditionalRegisters.html" title="Structure representing additional PWM registers." alt="" coords="419,93,607,119"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="514,133,508,191,503,190,508,132"/>
+<area shape="rect" id="Node000008" href="$structPwm__Handler.html" title="Structure representing PWM handler descriptor." alt="" coords="723,93,835,119"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="714,125,666,147,645,163,628,183,615,209,611,238,614,288,608,288,606,238,610,208,623,180,641,159,664,143,712,120"/>
+<area shape="rect" id="Node000009" href="$structPwm__GeneralInterruptHandler.html" title="Structure representing a PWM general interrupt handler." alt="" coords="751,191,969,216"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="799,127,852,189,848,192,795,131"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="818,223,642,291,640,286,817,218"/>
+</map>

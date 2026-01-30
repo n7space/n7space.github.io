@@ -1,0 +1,5 @@
+<map id="Uart_ErrorHandler" name="Uart_ErrorHandler">
+<area shape="rect" id="Node000001" title="A descriptor of an error handler." alt="" coords="5,93,144,119"/>
+<area shape="rect" id="Node000002" href="$structUart__ErrorFlags.html" title="Uart error flags." alt="" coords="13,5,136,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,45,77,93,72,93,72,45"/>
+</map>

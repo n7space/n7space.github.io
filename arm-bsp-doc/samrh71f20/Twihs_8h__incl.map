@@ -1,0 +1,21 @@
+<map id="n7s/bsp/Twihs/Twihs.h" name="n7s/bsp/Twihs/Twihs.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="196,5,360,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="61,152,144,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,29,87,47,41,62,25,71,14,80,9,89,8,97,18,114,38,130,62,144,60,148,35,135,14,118,3,98,4,88,9,77,22,66,39,57,86,42,196,24"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="354,152,424,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="361,26,456,45,495,59,520,77,527,91,526,104,519,115,507,125,475,142,439,154,437,149,473,137,504,121,515,112,521,102,522,92,516,80,493,64,454,50,360,31"/>
+<area shape="rect" id="Node000004" href="$ByteFifo_8h.html" title=" " alt="" coords="205,79,352,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="281,31,281,65,276,65,276,31"/>
+<area shape="rect" id="Node000006" href="$ErrorCode_8h.html" title=" " alt="" coords="24,79,181,104"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="251,33,145,76,143,71,249,28"/>
+<area shape="rect" id="Node000007" href="$TwihsRegisters_8h_source.html" title=" " alt="" coords="376,79,506,104"/>
+<area shape="poly" id="edge11_Node000001_Node000007" title=" " alt="" coords="305,28,403,71,401,75,303,33"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="251,106,145,149,143,144,249,102"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="297,102,361,142,358,147,295,106"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="204,152,278,177"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="274,106,256,141,251,139,270,103"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="105,104,105,138,100,138,100,104"/>
+<area shape="poly" id="edge10_Node000006_Node000003" title=" " alt="" coords="149,101,341,149,339,154,148,107"/>
+<area shape="poly" id="edge9_Node000006_Node000005" title=" " alt="" coords="126,102,207,143,205,148,123,106"/>
+<area shape="poly" id="edge12_Node000007_Node000003" title=" " alt="" coords="434,106,408,142,403,139,430,103"/>
+</map>

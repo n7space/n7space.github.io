@@ -1,0 +1,5 @@
+<map id="Spw_TxHandler" name="Spw_TxHandler">
+<area shape="rect" id="Node000001" title="Structure serving as a transmission end callback descriptor." alt="" coords="13,93,135,119"/>
+<area shape="rect" id="Node000002" href="$structSpw__Tx__IrqStatus.html" title="Structure listing triggered PktTx interrupts." alt="" coords="5,5,143,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,45,77,93,71,93,71,45"/>
+</map>

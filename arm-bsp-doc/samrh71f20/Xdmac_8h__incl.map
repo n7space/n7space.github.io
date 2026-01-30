@@ -1,0 +1,19 @@
+<map id="n7s/bsp/Xdmac/Xdmac.h" name="n7s/bsp/Xdmac/Xdmac.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="191,5,374,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="104,152,187,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,30,88,49,46,63,21,80,15,91,15,101,20,110,30,119,58,135,92,147,90,152,56,139,27,123,16,113,10,102,10,90,17,77,44,58,87,44,191,25"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="247,152,318,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="311,28,334,42,356,59,370,81,371,93,368,105,348,130,323,148,320,143,344,126,363,103,366,92,365,82,353,63,331,46,308,33"/>
+<area shape="rect" id="Node000004" href="$ErrorCode_8h.html" title=" " alt="" coords="31,79,188,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="256,33,151,76,149,71,254,28"/>
+<area shape="rect" id="Node000006" href="$XdmacPeripheralIds_8h.html" title=" " alt="" coords="429,79,593,104"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="320,28,461,72,460,77,319,33"/>
+<area shape="rect" id="Node000007" href="$XdmacRegisters_8h.html" title=" " alt="" coords="213,79,353,104"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="285,31,285,65,280,65,280,31"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="118,103,136,138,131,141,113,106"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="138,102,243,144,241,149,136,106"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,152,80,177"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="100,106,65,144,61,140,96,103"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="262,106,181,148,179,143,259,102"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="285,104,285,138,280,138,280,104"/>
+</map>

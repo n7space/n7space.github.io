@@ -1,0 +1,11 @@
+<map id="Utils" name="Utils">
+<area shape="rect" id="Node000003" href="$group__Bits.html" title=" " alt="" coords="288,5,335,31"/>
+<area shape="rect" id="Node000004" href="$group__ByteBuffer.html" title=" " alt="" coords="266,55,357,80"/>
+<area shape="rect" id="Node000005" href="$group__ByteFifo.html" title=" " alt="" coords="273,104,349,129"/>
+<area shape="rect" id="Node000006" href="$group__ConcurrentAccessFlag.html" title=" " alt="" coords="228,153,395,179"/>
+<area shape="rect" id="Node000007" href="$group__Endian.html" title=" " alt="" coords="278,203,345,228"/>
+<area shape="rect" id="Node000008" href="$group__ErrorCode.html" title=" " alt="" coords="268,252,355,277"/>
+<area shape="rect" id="Node000002" href="$group__N7-Core.html" title="Module containing general utility library functions." alt="" coords="5,153,80,179"/>
+<area shape="rect" id="Node000001" title="Auxiliary header for basic bit operations on registers." alt="" coords="128,153,180,179"/>
+<area shape="rect" id="Node000009" href="$group__StructFifo.html" title=" " alt="" coords="269,301,353,327"/>
+</map>

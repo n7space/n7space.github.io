@@ -1,0 +1,9 @@
+<map id="Tic_ChannelConfig" name="Tic_ChannelConfig">
+<area shape="rect" id="Node000001" title="Structure describing Tic channel configuration." alt="" coords="230,93,373,119"/>
+<area shape="rect" id="Node000002" href="$structTic__CaptureModeConfig.html" title="Structure describing Capture mode configuration." alt="" coords="5,5,181,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,37,167,67,203,81,240,91,238,96,201,86,164,72,116,42"/>
+<area shape="rect" id="Node000003" href="$structTic__WaveformModeConfig.html" title="Structure describing Wave mode configuration." alt="" coords="205,5,397,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="304,45,304,93,299,93,299,45"/>
+<area shape="rect" id="Node000004" href="$structTic__ChannelIrqConfig.html" title="Structure describing channel interrupt configuration." alt="" coords="422,5,581,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="487,43,473,59,456,72,415,89,374,100,372,95,414,84,453,67,470,55,484,40"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="n7s/bsp/Scb/Scb.h" name="n7s/bsp/Scb/Scb.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="115,5,253,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,80,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,33,79,75,77,70,160,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="104,79,187,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,32,160,68,156,65,175,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="237,152,307,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="193,30,260,139,256,142,189,33"/>
+<area shape="rect" id="Node000005" href="$ScbRegisters_8h.html" title=" " alt="" coords="262,79,381,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="207,28,288,70,286,75,205,33"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="315,106,290,142,286,139,311,103"/>
+</map>

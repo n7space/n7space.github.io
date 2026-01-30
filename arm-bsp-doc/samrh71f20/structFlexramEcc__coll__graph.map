@@ -1,0 +1,5 @@
+<map id="FlexramEcc" name="FlexramEcc">
+<area shape="rect" id="Node000001" title="Structure representing FlexramEcc instance." alt="" coords="39,93,138,119"/>
+<area shape="rect" id="Node000002" href="$structFlexramEcc__Registers.html" title="Structure describing the layout of FLEXRAMECC registers." alt="" coords="5,5,172,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,45,91,93,86,93,86,45"/>
+</map>

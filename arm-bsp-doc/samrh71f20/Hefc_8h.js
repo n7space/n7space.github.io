@@ -1,0 +1,115 @@
+var Hefc_8h =
+[
+    [ "HEFC_PAGE_SIZE", "group__Hefc.html#ga0bd23c0295d475211c19766d3be594ec", null ],
+    [ "HEFC_RC_12MHZ_CALIBRATION_BITS_OFFSET", "group__Hefc.html#gae5b527560e8dcfb5400abeb2ec9c2f63", null ],
+    [ "HEFC_RC_8MHZ_CALIBRATION_BITS_OFFSET", "group__Hefc.html#ga93ae04b9547029e05627a8b5bd329de4", null ],
+    [ "HEFC_RC_CALIBRATION_BITS_MASK", "group__Hefc.html#gac6f10b7705fdb99d246743d5f0cc846c", null ],
+    [ "Hefc_Command", "group__Hefc.html#ga3f53be4c1bd9d173948c03d09ad43336", [
+      [ "Hefc_Command_GetFlashDescriptor", "group__Hefc.html#gga3f53be4c1bd9d173948c03d09ad43336aa9082a2a56dae4846b9cd97e6cf82da4", null ],
+      [ "Hefc_Command_WritePage", "group__Hefc.html#gga3f53be4c1bd9d173948c03d09ad43336a4992325ec9e1eedff0e054a6ed4b312c", null ],
+      [ "Hefc_Command_WritePageAndLock", "group__Hefc.html#gga3f53be4c1bd9d173948c03d09ad43336a0329172db275e111b0df2f45bacf4d9f", null ],
+      [ "Hefc_Command_EraseAll", "group__Hefc.html#gga3f53be4c1bd9d173948c03d09ad43336af542953afb7345cbc357e3c7508df170", null ],
+      [ "Hefc_Command_ErasePage", "group__Hefc.html#gga3f53be4c1bd9d173948c03d09ad43336a86728b7f3cee458220e373c16dff0e5d", null ],
+      [ "Hefc_Command_ErasePages", "group__Hefc.html#gga3f53be4c1bd9d173948c03d09ad43336a59b8d377e2d7599dc34b27d1cebbae2a", null ],
+      [ "Hefc_Command_SetLockBit", "group__Hefc.html#gga3f53be4c1bd9d173948c03d09ad43336a6ee44735bd3f714334147d30da216617", null ],
+      [ "Hefc_Command_ClearLockBit", "group__Hefc.html#gga3f53be4c1bd9d173948c03d09ad43336abc30d6ef79417c40df39f67a55008b34", null ],
+      [ "Hefc_Command_GetLockBit", "group__Hefc.html#gga3f53be4c1bd9d173948c03d09ad43336a71c0dc10b07287bf06c23d38869bc35e", null ],
+      [ "Hefc_Command_SetGpnvmBit", "group__Hefc.html#gga3f53be4c1bd9d173948c03d09ad43336a0b195278435c5219e41e6be47aa7a399", null ],
+      [ "Hefc_Command_ClearGpnvmBit", "group__Hefc.html#gga3f53be4c1bd9d173948c03d09ad43336aeb4e8137189bf9277770a372ccaff92d", null ],
+      [ "Hefc_Command_GetGpnvmBit", "group__Hefc.html#gga3f53be4c1bd9d173948c03d09ad43336a590fc779960d370612a1b8a1ad22c30f", null ],
+      [ "Hefc_Command_GetCalibBit", "group__Hefc.html#gga3f53be4c1bd9d173948c03d09ad43336a39354a2a1245db9262de9207250f3c49", null ],
+      [ "Hefc_Command_WriteUserSignature", "group__Hefc.html#gga3f53be4c1bd9d173948c03d09ad43336a663301785f89dcb37fcdc012cf26ebb5", null ],
+      [ "Hefc_Command_EraseUserSignature", "group__Hefc.html#gga3f53be4c1bd9d173948c03d09ad43336ac6edfb46e2cbd85025fb2c61ab7f7652", null ],
+      [ "Hefc_Command_StartReadUserSignature", "group__Hefc.html#gga3f53be4c1bd9d173948c03d09ad43336a6dfb21998b5365d38113e702c4965bb0", null ],
+      [ "Hefc_Command_StopReadUserSignature", "group__Hefc.html#gga3f53be4c1bd9d173948c03d09ad43336a5813db194d68d2ec513000fa12b54ae6", null ]
+    ] ],
+    [ "Hefc_EccMemoryAccess", "group__Hefc.html#gab59e3f38ddf7960052a2cd4175f65b75", [
+      [ "Hefc_EccMemoryAccess_Write", "group__Hefc.html#ggab59e3f38ddf7960052a2cd4175f65b75a9a12b592130219a7e6912bde184eef2c", null ],
+      [ "Hefc_EccMemoryAccess_Read", "group__Hefc.html#ggab59e3f38ddf7960052a2cd4175f65b75ac135537d7b4d24c03b959506ecc41862", null ]
+    ] ],
+    [ "Hefc_EccMemoryId", "group__Hefc.html#ga257c75628986a73664720bd0cf33f2d6", [
+      [ "Hefc_EccMemoryId_0", "group__Hefc.html#gga257c75628986a73664720bd0cf33f2d6a6003c164efab605bc566d61f7e110e4d", null ],
+      [ "Hefc_EccMemoryId_1", "group__Hefc.html#gga257c75628986a73664720bd0cf33f2d6a2a9dc28f68932c78cec77cae33d33e9b", null ],
+      [ "Hefc_EccMemoryId_2", "group__Hefc.html#gga257c75628986a73664720bd0cf33f2d6a3b1583fd057dc3263016602e5a759f97", null ],
+      [ "Hefc_EccMemoryId_3", "group__Hefc.html#gga257c75628986a73664720bd0cf33f2d6a2ffd0ab4f54d5fd7039f8d63c2de20ff", null ]
+    ] ],
+    [ "Hefc_ErrorCode", "group__Hefc.html#gaf67e4afac497cd7acea9d120e4e17b37", [
+      [ "Hefc_ErrorCode_Timeout", "group__Hefc.html#ggaf67e4afac497cd7acea9d120e4e17b37ae944d2c81f64bab0782585f52c11ee81", null ],
+      [ "Hefc_ErrorCode_RegionLocked", "group__Hefc.html#ggaf67e4afac497cd7acea9d120e4e17b37acc0c2e83ae6452f46d937c4ebc6c3365", null ],
+      [ "Hefc_ErrorCode_BadCommand", "group__Hefc.html#ggaf67e4afac497cd7acea9d120e4e17b37a23a110d8e24515bfd786e801cc4c6cde", null ],
+      [ "Hefc_ErrorCode_RegisterWriteError", "group__Hefc.html#ggaf67e4afac497cd7acea9d120e4e17b37ade48db2fc3329756c9ce7b2882329de7", null ],
+      [ "Hefc_ErrorCode_NotFlashAddress", "group__Hefc.html#ggaf67e4afac497cd7acea9d120e4e17b37a7cb393b6cab0e95d16a9f71c8d58acba", null ],
+      [ "Hefc_ErrorCode_TooBigSize", "group__Hefc.html#ggaf67e4afac497cd7acea9d120e4e17b37a6833ce988e1ae72c48d6faf3cb25c4ed", null ],
+      [ "Hefc_ErrorCode_NumberOfPagesExceedsMaxValue", "group__Hefc.html#ggaf67e4afac497cd7acea9d120e4e17b37aa3e3cc8104256013da72b6ecd2b42e33", null ],
+      [ "Hefc_ErrorCode_NumberOfRegionsExceedsMaxValue", "group__Hefc.html#ggaf67e4afac497cd7acea9d120e4e17b37a7b27ad0483249f683e76badef5744b10", null ],
+      [ "Hefc_ErrorCode_AddressNotAlign", "group__Hefc.html#ggaf67e4afac497cd7acea9d120e4e17b37a4e1f92cd30734545ea4c8187d50b1378", null ],
+      [ "Hefc_ErrorCode_PageNotAligned", "group__Hefc.html#ggaf67e4afac497cd7acea9d120e4e17b37a4f017234ce4bf755af314382ae498ad2", null ],
+      [ "Hefc_ErrorCode_ProgrammingError", "group__Hefc.html#ggaf67e4afac497cd7acea9d120e4e17b37a7bd8a49f3b202a24299ef9d2470a270c", null ],
+      [ "Hefc_ErrorCode_InvalidPageCount", "group__Hefc.html#ggaf67e4afac497cd7acea9d120e4e17b37a986741264179e24c6b8efd33de5590dd", null ]
+    ] ],
+    [ "Hefc_FlashSize", "group__Hefc.html#ga70dd53200ca36339fcc3cd30ed38ac07", [
+      [ "Hefc_FlashSize_128Kb", "group__Hefc.html#gga70dd53200ca36339fcc3cd30ed38ac07ad7bcaa0c649056fb9be79d21fce5c26f", null ],
+      [ "Hefc_FlashSize_256Kb", "group__Hefc.html#gga70dd53200ca36339fcc3cd30ed38ac07a96059eabaa179b7036bff8c099eab194", null ],
+      [ "Hefc_FlashSize_512Kb", "group__Hefc.html#gga70dd53200ca36339fcc3cd30ed38ac07a73a9ec951d9b777657de64085e2dbed9", null ],
+      [ "Hefc_FlashSize_1Mb", "group__Hefc.html#gga70dd53200ca36339fcc3cd30ed38ac07a89f73d280f4f47000f21c1d81e8aad79", null ],
+      [ "Hefc_FlashSize_2Mb", "group__Hefc.html#gga70dd53200ca36339fcc3cd30ed38ac07a272ca39a99d5b0c3838ccc25785f545f", null ]
+    ] ],
+    [ "Hefc_LockBit", "group__Hefc.html#gae7042be6ca710d5bee85cee0eab32c26", [
+      [ "Hefc_LockBit_Unlocked", "group__Hefc.html#ggae7042be6ca710d5bee85cee0eab32c26a96cb54678fc5f852372c84ff9fe955df", null ],
+      [ "Hefc_LockBit_Locked", "group__Hefc.html#ggae7042be6ca710d5bee85cee0eab32c26a5d6b22cdef4b84c0f2abd307eaae494b", null ]
+    ] ],
+    [ "Hefc_PageCount", "group__Hefc.html#gae20f4b0e9caba42ae0dfccde76f6ddf6", [
+      [ "Hefc_PageCount_4", "group__Hefc.html#ggae20f4b0e9caba42ae0dfccde76f6ddf6aebc4310196240755e0fea45514609f2b", null ],
+      [ "Hefc_PageCount_8", "group__Hefc.html#ggae20f4b0e9caba42ae0dfccde76f6ddf6af5305376f5202f5776f9464afe713802", null ],
+      [ "Hefc_PageCount_16", "group__Hefc.html#ggae20f4b0e9caba42ae0dfccde76f6ddf6a4891dd8f88cc0d2fa54052b9f9fb849d", null ],
+      [ "Hefc_PageCount_32", "group__Hefc.html#ggae20f4b0e9caba42ae0dfccde76f6ddf6a5ad1da76bf1f6359e71502e288a09097", null ]
+    ] ],
+    [ "Hefc_PowerSwitchDelay", "group__Hefc.html#ga71077490e53083744a3716c2a66377fa", [
+      [ "Hefc_PowerSwitchDelay_75us", "group__Hefc.html#gga71077490e53083744a3716c2a66377faab662a566a14a2236dc315e0fc80b54db", null ],
+      [ "Hefc_PowerSwitchDelay_150us", "group__Hefc.html#gga71077490e53083744a3716c2a66377faa4dcd30afa692636618fc119ee28b1c62", null ],
+      [ "Hefc_PowerSwitchDelay_300us", "group__Hefc.html#gga71077490e53083744a3716c2a66377faa3c745e24c7334cbe369e4af4e301127f", null ],
+      [ "Hefc_PowerSwitchDelay_600us", "group__Hefc.html#gga71077490e53083744a3716c2a66377faa8a03f3bf217117180954f375aa944bf0", null ]
+    ] ],
+    [ "Hefc_RcCalibration", "group__Hefc.html#gae2a69c23e3cd21edc0f6d3c5af371d24", [
+      [ "Hefc_RcCalibration_4MHz", "group__Hefc.html#ggae2a69c23e3cd21edc0f6d3c5af371d24a36d993d40db44ae4902923159e5a2f67", null ],
+      [ "Hefc_RcCalibration_8MHz", "group__Hefc.html#ggae2a69c23e3cd21edc0f6d3c5af371d24a6f4c5450a14028b9aeaa3312378512e4", null ],
+      [ "Hefc_RcCalibration_12MHz", "group__Hefc.html#ggae2a69c23e3cd21edc0f6d3c5af371d24af35b5da7012495134332c9c833c6b24e", null ]
+    ] ],
+    [ "Hefc_checkStatus", "group__Hefc.html#ga36260419a80ac38535300e9f92dcf2cd", null ],
+    [ "Hefc_clearAllLockBits", "group__Hefc.html#ga346753525152e86d4a6463f2b9a6a425", null ],
+    [ "Hefc_clearGpnvmBit", "group__Hefc.html#ga196c85844ad35864fbe997cc2257bd16", null ],
+    [ "Hefc_clearLockBit", "group__Hefc.html#gacb454fd880fedb152db730b228730061", null ],
+    [ "Hefc_disableHecc", "group__Hefc.html#gaa679c9a46c75ca525191d0ed4a47f584", null ],
+    [ "Hefc_enableHecc", "group__Hefc.html#gaed7e1c96ad9a66ff7f886afed6bbceb2", null ],
+    [ "Hefc_eraseAll", "group__Hefc.html#gabb0c30be6d469f3c49ec56e471aac6ce", null ],
+    [ "Hefc_erasePage", "group__Hefc.html#ga7718d4f9af0269c28baee564b6612d74", null ],
+    [ "Hefc_erasePages", "group__Hefc.html#ga50395e62dcefdb0c0b0c7dadee29e9c3", null ],
+    [ "Hefc_eraseUserSignature", "group__Hefc.html#gaca1c2bb8040bbbd0decbf47d4998b8bd", null ],
+    [ "Hefc_getCalibrationBit", "group__Hefc.html#ga4298a6f3e9e7a6c261c2d71be6fd12e2", null ],
+    [ "Hefc_getDefaultFlashInfo", "group__Hefc.html#ga9464b897dedb950a4ff1c6fb0b8a231b", null ],
+    [ "Hefc_getDeviceRegisterStartAddress", "group__Hefc.html#gae8afdf38befc4b8be511b2555147de16", null ],
+    [ "Hefc_getFlashConfiguration", "group__Hefc.html#ga6ab3d7f1f881f59d82c286f43342267f", null ],
+    [ "Hefc_getFlashDescriptor", "group__Hefc.html#ga088ddac6720738430bc4cdd6b6c75f32", null ],
+    [ "Hefc_getGpnvmBit", "group__Hefc.html#ga7c67689c9fa33445a21e35c53ad6e6c0", null ],
+    [ "Hefc_getGpnvmValues", "group__Hefc.html#ga021d4da4dbe38904fd7d93ce58d0c995", null ],
+    [ "Hefc_getHeccFailAddress", "group__Hefc.html#ga14cd020c1aa5b171e6e21b0237005236", null ],
+    [ "Hefc_getHeccIrqConfig", "group__Hefc.html#ga6ea6578cbf3528adc3da7186fdde757b", null ],
+    [ "Hefc_getHeccStatus", "group__Hefc.html#ga5263b4efc232336de1c877c3b884049e", null ],
+    [ "Hefc_getLockBit", "group__Hefc.html#gafbc44d7ba0216ecd11af3910ab9038b1", null ],
+    [ "Hefc_getLockRegionIndex", "group__Hefc.html#gaccaf12499ac52da5b579a40d46089b20", null ],
+    [ "Hefc_getPageNumber", "group__Hefc.html#gadbfc705ccffc44a3e99e8cbf019229ab", null ],
+    [ "Hefc_getPageSize", "group__Hefc.html#gad622e8dd53cd1a3bc93665bac4f0b36b", null ],
+    [ "Hefc_getPageStartAddress", "group__Hefc.html#ga665ad2a4c83786ace0068b6b4efd0cfd", null ],
+    [ "Hefc_init", "group__Hefc.html#ga7f694a5e7e02a2c08212b6fa6cb20658", null ],
+    [ "Hefc_isFlashAddress", "group__Hefc.html#ga1b5d9c5f8b25da3b39d00a78c88c9007", null ],
+    [ "Hefc_readTestHecc", "group__Hefc.html#gaadb8937ef4701b823e12eae6b57870c6", null ],
+    [ "Hefc_readUserSignature", "group__Hefc.html#gab90e2516429ff35756bbeccde8a83d3e", null ],
+    [ "Hefc_resetErrorCounters", "group__Hefc.html#ga3590d8d5499cfd61c8df5264843be975", null ],
+    [ "Hefc_setFlashConfiguration", "group__Hefc.html#ga1f09a7d407d85b7e5c8e2af01c2848b4", null ],
+    [ "Hefc_setGpnvmBit", "group__Hefc.html#ga2cb3739a209276fe6c952152b1e16a65", null ],
+    [ "Hefc_setHeccIrqConfig", "group__Hefc.html#ga87792cd5db0d4060635e9d341d6567da", null ],
+    [ "Hefc_setLockBit", "group__Hefc.html#ga0248678de41c49615a43bb2c9146ec3a", null ],
+    [ "Hefc_writePage", "group__Hefc.html#gadcdd9ec9e6c4442b0bd852ae1f08f980", null ],
+    [ "Hefc_writeTestHecc", "group__Hefc.html#gac6180eb3e6470a048e0607b9fdbfbd63", null ],
+    [ "Hefc_writeUserSignature", "group__Hefc.html#ga413d3e2b2f8fd09feace2e3f47dec2e9", null ]
+];

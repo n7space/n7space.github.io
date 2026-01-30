@@ -1,0 +1,19 @@
+<map id="n7s/bsp/Hefc/ChipConfig.h" name="n7s/bsp/Hefc/ChipConfig.h">
+<area shape="rect" id="Node000001" title="Utility file to ease working with chip config .conf files." alt="" coords="101,5,293,31"/>
+<area shape="rect" id="Node000002" href="$Hefc_8h.html" title=" " alt="" coords="165,79,229,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,31,200,65,195,65,195,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,225,88,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="172,106,136,126,101,154,77,184,60,214,55,211,73,181,97,150,133,122,170,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="128,225,203,251"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="167,106,135,125,120,138,109,153,106,169,111,186,123,201,138,215,134,219,119,205,107,188,100,170,104,151,116,134,131,121,164,102"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="327,225,398,251"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="230,93,347,112,403,128,425,138,439,150,445,160,445,171,437,189,420,206,399,221,396,216,416,202,433,186,440,170,440,162,435,154,422,143,402,133,346,117,229,98"/>
+<area shape="rect" id="Node000006" href="$ErrorCode_8h.html" title=" " alt="" coords="119,152,276,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="200,104,200,138,195,138,195,104"/>
+<area shape="rect" id="Node000007" href="$HefcRegisters_8h.html" title=" " alt="" coords="300,152,425,177"/>
+<area shape="poly" id="edge9_Node000002_Node000007" title=" " alt="" coords="225,102,324,144,322,149,223,106"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="174,180,85,222,83,217,172,175"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="194,179,178,214,174,212,190,177"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="225,175,324,217,322,222,223,180"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="365,178,365,212,360,212,360,178"/>
+</map>
