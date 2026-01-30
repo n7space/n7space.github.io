@@ -120,12 +120,27 @@
 				color: #666;
 				font-size: 0.9rem;
 			}
+			.note-box {
+				background: #f8f9fa;
+				border-left: 4px solid #4b6583;
+				padding: 1rem 1.5rem;
+				margin: 1.5rem 0;
+				border-radius: 4px;
+				font-size: 0.95rem;
+			}
+			.note-box strong {
+				color: #2c3e50;
+				text-transform: uppercase;
+				font-weight: 700;
+			}
     </style>
   </head>
   <body>
     <div class="container">
       <header>
-        <img src="n7space_logo.svg" alt="N7 Space Logo" class="logo">
+        <a href="https://n7space.com" target="_blank">
+          <img src="n7space_logo.svg" alt="N7 Space Logo" class="logo">
+        </a>
         <div class="header-content">
           <h1>Cortex-M7 Board Support Packages</h1>
           <p class="subtitle">Driver API documentation for Microchip ARM Cortex-M7 platforms</p>
@@ -136,12 +151,12 @@
         <div class="description">
           <p>
             This page provides API documentation for low-level drivers included in N7 Space Board Support Package for SAMV71Q21, SAMRH71F20 and SAMRH707F18 platforms.
-            The drivers have been developed according to <a href="https://ecss.nl">ECSS</a> standards (ECSS-E-ST-40C, ECSS-Q-ST-80C) and are available with complete qualification data package (QDP).
+            The drivers have been developed according to <a href="https://ecss.nl">ECSS</a> standards (ECSS-E-ST-40C, ECSS-Q-ST-80C) and are available with complete Criticality Category B qualification data package (QDP).
             Documentation was generated from source code using <a href="https://doxygen.nl">Doxygen</a>.
           </p>
-          <p>
-            More information about the libraries can be found at <a href="https://bootloader.space">bootloader.space</a>.
-          </p>
+          <div class="note-box">
+            <strong>Note:</strong> The documentation is provided for informative purposes only, not for commercial use. More information about the libraries and licensing can be found at <a href="https://bootloader.space">bootloader.space</a>.
+          </div>
         </div>
 
         <h2 class="section-title">Supported Boards</h2>
