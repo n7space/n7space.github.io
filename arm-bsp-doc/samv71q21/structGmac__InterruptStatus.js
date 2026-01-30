@@ -1,0 +1,28 @@
+var structGmac__InterruptStatus =
+[
+    [ "isEnableRxLpiIndicationIrqPending", "structGmac__InterruptStatus.html#a8bf078559f842c2d5da40658780cd741", null ],
+    [ "isHrespNotOkIrqPending", "structGmac__InterruptStatus.html#a9dcc5e6a5f89966485f27e7a9f571d1f", null ],
+    [ "isMgmtFrameSentIrqPending", "structGmac__InterruptStatus.html#a36c90037177abf2a4873148aa07e616d", null ],
+    [ "isPauseFrameTransmittedIrqPending", "structGmac__InterruptStatus.html#a2fae0eae3d71e8ae8090ba954f34f9d4", null ],
+    [ "isPauseFrameWithNonzeroPauseQuantumReceivedIrqPending", "structGmac__InterruptStatus.html#aea1de3a03f6d7b8cb216df29dba7c4d4", null ],
+    [ "isPauseTimeZeroIrqPending", "structGmac__InterruptStatus.html#a437950982220e09c8a274fd4b98dae2f", null ],
+    [ "isPdelayRequestFrameReceivedIrqPending", "structGmac__InterruptStatus.html#a60028ed2a816343c1fceb9747e340821", null ],
+    [ "isPdelayRequestFrameTransmittedIrqPending", "structGmac__InterruptStatus.html#a20005f70afafce7c32fdac87560d3ed0", null ],
+    [ "isPdelayResponseFrameReceivedIrqPending", "structGmac__InterruptStatus.html#a01acadb52d5567672c1d1181f79d53d7", null ],
+    [ "isPdelayResponseFrameTransmittedIrqPending", "structGmac__InterruptStatus.html#a5dbe8ef8914f815c8b37eaad37f7fc0d", null ],
+    [ "isPtpDelayRequestFrameReceivedIrqPending", "structGmac__InterruptStatus.html#af0b8fdb46bf826bf72d77cbd4ec78fef", null ],
+    [ "isPtpDelayRequestFrameTransmittedIrqPending", "structGmac__InterruptStatus.html#aacc5ae57688e66037895c35093a6baa0", null ],
+    [ "isPtpSyncFrameReceivedIrqPending", "structGmac__InterruptStatus.html#adad6ddc1f763cbb218b44c8636e7ffe1", null ],
+    [ "isPtpSyncFrameTransmittedIrqPending", "structGmac__InterruptStatus.html#a8384e12ccf1aff50683dfce8021fcb4d", null ],
+    [ "isRetryLimitExceededOrLateCollisionIrqPending", "structGmac__InterruptStatus.html#a46c914d83deb5ea3545cefd731dad226", null ],
+    [ "isRxCompleteIrqPending", "structGmac__InterruptStatus.html#a5c0a7f920ccc628a4877e3cc56dd9901", null ],
+    [ "isRxOverrunIrqPending", "structGmac__InterruptStatus.html#a0d920cf68d101a2bd2026f6c64ebbe05", null ],
+    [ "isRxUsedBitReadIrqPending", "structGmac__InterruptStatus.html#a41bd9314699acaac337d2c47971b87fa", null ],
+    [ "isTsuSecondsRegisterIncrementIrqPending", "structGmac__InterruptStatus.html#a1589b129a77fd5bf19b0620297f1e381", null ],
+    [ "isTsuTimerComparisonIrqPending", "structGmac__InterruptStatus.html#a82680a0f539f6d41b10c6f9138fc5572", null ],
+    [ "isTxCompleteIrqPending", "structGmac__InterruptStatus.html#ade88db774d67ad0a0015f3e04cd336be", null ],
+    [ "isTxFrameCorruptionDueToAhbErrorIrqPending", "structGmac__InterruptStatus.html#a2e03073e81efaadb3d3a0239ca7ab349", null ],
+    [ "isTxUnderrunIrqPending", "structGmac__InterruptStatus.html#afa6f0b1cbf5a8a12363169d1e95cff0e", null ],
+    [ "isTxUsedBitReadIrqPending", "structGmac__InterruptStatus.html#ae90cbcc373fb05dc3d2bd43988e26acb", null ],
+    [ "isWakeOnLanIrqPending", "structGmac__InterruptStatus.html#a769de58d90b158f7a1765d393f83a693", null ]
+];

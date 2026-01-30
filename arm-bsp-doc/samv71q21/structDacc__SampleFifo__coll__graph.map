@@ -1,0 +1,5 @@
+<map id="Dacc_SampleFifo" name="Dacc_SampleFifo">
+<area shape="rect" id="Node000001" title="Structure representing single DACC sample queue." alt="" coords="5,93,140,119"/>
+<area shape="rect" id="Node000002" href="$structStructFifo.html" title="Structure representing single queue instance." alt="" coords="31,5,115,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,45,75,93,70,93,70,45"/>
+</map>

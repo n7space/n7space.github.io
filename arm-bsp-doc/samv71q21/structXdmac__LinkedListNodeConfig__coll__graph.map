@@ -1,0 +1,9 @@
+<map id="Xdmac_LinkedListNodeConfig" name="Xdmac_LinkedListNodeConfig">
+<area shape="rect" id="Node000001" title="A structure describing configuration of a linked list node." alt="" coords="184,93,399,119"/>
+<area shape="rect" id="Node000002" href="$structXdmac__DescriptorControl.html" title="A structure used to describe configuration of a linked list node descriptor." alt="" coords="5,5,193,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,37,170,67,203,81,237,91,236,96,202,86,167,72,121,42"/>
+<area shape="rect" id="Node000003" href="$structXdmac__DataConfig.html" title="A structure used to describe data&#45;specific configuration of a transfer." alt="" coords="218,5,365,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="294,45,294,93,289,93,289,45"/>
+<area shape="rect" id="Node000004" href="$structXdmac__MemsetAndStrideConfig.html" title="A structure used to describe data and microblock striding configuration." alt="" coords="389,5,620,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="464,38,321,96,319,91,462,34"/>
+</map>

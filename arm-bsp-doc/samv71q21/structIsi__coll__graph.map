@@ -1,0 +1,10 @@
+<map id="Isi" name="Isi">
+<area shape="rect" id="Node000001" title="Structure representing ISI." alt="" coords="140,181,179,207"/>
+<area shape="rect" id="Node000002" href="$structIsi__Registers.html" title="Structure representing ISI registers." alt="" coords="5,93,111,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,131,81,156,110,175,141,186,139,191,108,180,77,159,62,133"/>
+<area shape="rect" id="Node000003" href="$structIsi__Handler.html" title="Structure describing ISI handler definition." alt="" coords="133,5,228,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,45,163,181,158,181,175,44"/>
+<area shape="rect" id="Node000004" href="$structIsi__InterruptHandler.html" title="Structure representing ISI interrupt handler." alt="" coords="313,93,464,119"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="222,34,362,91,360,96,220,38"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="346,126,180,188,178,183,344,121"/>
+</map>

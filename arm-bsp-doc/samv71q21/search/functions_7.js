@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['isbetweenuint32_0',['isBetweenUint32',['../group__Utils.html#gab7beaa461862fe0f28d8f2fad9a4da27',1,'Utils.h']]],
+  ['isbitset_1',['isBitSet',['../group__Bits.html#gad3b4fed3264a50fbd8b01584f9b38782',1,'Bits.h']]],
+  ['isfieldset_2',['isFieldSet',['../group__Bits.html#ga0bf67d05bb1fe67549f91e20763c84dc',1,'Bits.h']]],
+  ['isi_5fexecuterequest_3',['Isi_executeRequest',['../group__Isi.html#ga566a05a48e53adce4c54a9779d9e598e',1,'Isi.h']]],
+  ['isi_5fexecuterequestasync_4',['Isi_executeRequestAsync',['../group__Isi.html#gaa73d19f6b65f389ec53c11f67286ab80',1,'Isi.h']]],
+  ['isi_5fgetconfig_5',['Isi_getConfig',['../group__Isi.html#ga385b22c00d2c9c9920417eaacc750823',1,'Isi.h']]],
+  ['isi_5fgetcurrentcodecdmachanneldescriptor_6',['Isi_getCurrentCodecDmaChannelDescriptor',['../group__Isi.html#ga161bbc7adc0c4296d9f03f0529ea58d1',1,'Isi.h']]],
+  ['isi_5fgetcurrentpreviewdmachanneldescriptor_7',['Isi_getCurrentPreviewDmaChannelDescriptor',['../group__Isi.html#ga6e3b881c278004f0d0e7512a4ef640d7',1,'Isi.h']]],
+  ['isi_5fgetdescriptorconfiguration_8',['Isi_getDescriptorConfiguration',['../group__Isi.html#gac8ec78aaee8407daa5ab1df6ca77e6f3',1,'Isi.h']]],
+  ['isi_5fgetstatus_9',['Isi_getStatus',['../group__Isi.html#ga62ad0da1ef1dd474c1d731ebcb927c0c',1,'Isi.h']]],
+  ['isi_5fhandleinterrupt_10',['Isi_handleInterrupt',['../group__Isi.html#gab09a0134b0f9421a8f9c683d25e7a8a1',1,'Isi.h']]],
+  ['isi_5finit_11',['Isi_init',['../group__Isi.html#gac5c1e3dbfe6dbd03f2b4450a745b8456',1,'Isi.h']]],
+  ['isi_5fiscodecdmachannelenabled_12',['Isi_isCodecDmaChannelEnabled',['../group__Isi.html#gaffacab4a603e0358c4dccbc7f7ae6f68',1,'Isi.h']]],
+  ['isi_5fispreviewdmachannelenabled_13',['Isi_isPreviewDmaChannelEnabled',['../group__Isi.html#ga65003e177b72ac626ef7738ae23ffd27',1,'Isi.h']]],
+  ['isi_5fissuecodecrequest_14',['Isi_issueCodecRequest',['../group__Isi.html#ga8b2e772dfd1653045bef322c9603f23a',1,'Isi.h']]],
+  ['isi_5fregisterinterrupt_15',['Isi_registerInterrupt',['../group__Isi.html#gae346a04d3a2254d32ff2c144f35770c6',1,'Isi.h']]],
+  ['isi_5fsetcodecdmachannelenabled_16',['Isi_setCodecDmaChannelEnabled',['../group__Isi.html#gaf63f354d5747fb8a3b7b0033751bb728',1,'Isi.h']]],
+  ['isi_5fsetconfig_17',['Isi_setConfig',['../group__Isi.html#ga9cdb3feaa8904af32e5cc964a55490e9',1,'Isi.h']]],
+  ['isi_5fsetcurrentcodecdmachanneldescriptor_18',['Isi_setCurrentCodecDmaChannelDescriptor',['../group__Isi.html#gaa36bd4a42c977cdab9ba2093f91ec69c',1,'Isi.h']]],
+  ['isi_5fsetcurrentpreviewdmachanneldescriptor_19',['Isi_setCurrentPreviewDmaChannelDescriptor',['../group__Isi.html#ga454121cc79fc46334a7db249def7f25f',1,'Isi.h']]],
+  ['isi_5fsetdescriptorconfiguration_20',['Isi_setDescriptorConfiguration',['../group__Isi.html#ga6d0bb10bc26baf96b47da4e1aa135a77',1,'Isi.h']]],
+  ['isi_5fsetpreviewdmachannelenabled_21',['Isi_setPreviewDmaChannelEnabled',['../group__Isi.html#gaa867cba8533accbdd00b4cc8f542a014',1,'Isi.h']]]
+];

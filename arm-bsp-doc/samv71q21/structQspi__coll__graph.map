@@ -1,0 +1,11 @@
+<map id="Qspi" name="Qspi">
+<area shape="rect" id="Node000001" title="Qspi driver." alt="" coords="258,93,309,119"/>
+<area shape="rect" id="Node000002" href="$structQspi__Registers.html" title=" " alt="" coords="5,5,124,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,33,259,92,257,97,106,38"/>
+<area shape="rect" id="Node000003" href="$structQspi__Command.html" title="Qspi command structure." alt="" coords="149,5,274,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,40,251,68,273,91,269,95,247,71,225,43"/>
+<area shape="rect" id="Node000004" href="$structQspi__FlashApi.html" title="The flash specific configuration ." alt="" coords="298,5,413,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="346,44,328,71,302,95,298,91,324,68,342,41"/>
+<area shape="rect" id="Node000005" href="$structQspi__Handler.html" title="Non blocking operation handler." alt="" coords="437,5,546,31"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="462,40,399,72,310,101,308,96,397,67,459,35"/>
+</map>

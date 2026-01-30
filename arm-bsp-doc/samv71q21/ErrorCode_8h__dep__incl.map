@@ -1,0 +1,52 @@
+<map id="/home/kgrochowski/dev/arm/bsp/resources/n7&#45;core/lib/n7s/utils/ErrorCode.h" name="/home/kgrochowski/dev/arm/bsp/resources/n7&#45;core/lib/n7s/utils/ErrorCode.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1289,5,1504,60"/>
+<area shape="rect" id="Node000002" href="$Afec_8h.html" title=" " alt="" coords="5,115,156,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1276,38,1066,43,790,55,480,76,322,92,168,111,128,118,127,113,167,105,321,86,479,71,790,50,1066,38,1276,33"/>
+<area shape="rect" id="Node000003" href="$samv71q21_2Dacc_8h.html" title=" " alt="" coords="180,108,368,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1276,41,877,64,629,84,380,111,368,112,368,107,379,105,628,79,877,59,1275,36"/>
+<area shape="rect" id="Node000005" href="$Eefc_8h.html" title=" " alt="" coords="392,115,540,141"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1276,43,952,67,756,86,560,111,518,118,517,113,559,105,755,81,951,62,1276,38"/>
+<area shape="rect" id="Node000007" href="$Gmac_8h.html" title=" " alt="" coords="627,196,795,221"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1276,39,1088,46,877,59,780,68,698,80,637,94,617,102,605,110,599,119,598,127,606,147,618,163,634,175,671,194,668,198,631,180,614,166,601,149,593,127,595,117,601,106,615,97,635,89,697,74,780,63,877,53,1088,41,1275,34"/>
+<area shape="rect" id="Node000008" href="$Phy_8h.html" title=" " alt="" coords="688,277,868,302"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="1276,41,1165,48,1046,61,942,82,901,95,872,110,855,135,830,183,786,278,781,275,825,181,850,132,868,106,899,90,940,76,1046,56,1164,43,1276,36"/>
+<area shape="rect" id="Node000009" href="$GmacPhy_8h.html" title=" " alt="" coords="616,115,807,141"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1276,51,826,111,780,118,779,113,826,105,1275,46"/>
+<area shape="rect" id="Node000010" href="$Isi_8h.html" title=" " alt="" coords="882,115,1005,141"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="1276,58,1017,111,987,118,986,113,1016,105,1275,53"/>
+<area shape="rect" id="Node000011" href="$Mcan_8h.html" title=" " alt="" coords="1029,115,1191,141"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="1304,67,1146,118,1144,113,1302,62"/>
+<area shape="rect" id="Node000012" href="$samv71q21_2Pio_8h_source.html" title=" " alt="" coords="1215,108,1391,148"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="1362,72,1324,110,1320,106,1359,68"/>
+<area shape="rect" id="Node000015" href="$Pmc_8h.html" title=" " alt="" coords="1416,115,1564,141"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="1435,68,1480,113,1476,117,1431,72"/>
+<area shape="rect" id="Node000017" href="$Pwm_8h.html" title=" " alt="" coords="1588,115,1744,141"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="1486,62,1634,113,1632,118,1484,67"/>
+<area shape="rect" id="Node000018" href="$Qspi_8h.html" title=" " alt="" coords="1768,115,1919,141"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="1518,56,1757,105,1791,113,1790,118,1756,111,1517,61"/>
+<area shape="rect" id="Node000019" href="$Rtc_8h.html" title=" " alt="" coords="1943,115,2077,141"/>
+<area shape="poly" id="edge20_Node000001_Node000019" title=" " alt="" coords="1518,45,1713,70,1932,105,1966,113,1965,118,1931,111,1712,75,1517,50"/>
+<area shape="rect" id="Node000020" href="$Sdramc_8h.html" title=" " alt="" coords="2101,115,2292,141"/>
+<area shape="poly" id="edge21_Node000001_Node000020" title=" " alt="" coords="1518,42,1781,68,2090,105,2136,113,2135,118,2090,111,1781,73,1518,47"/>
+<area shape="rect" id="Node000021" href="$Spi_8h.html" title=" " alt="" coords="2316,115,2448,141"/>
+<area shape="poly" id="edge22_Node000001_Node000021" title=" " alt="" coords="1518,35,1675,43,1872,56,2089,76,2305,105,2341,113,2340,118,2304,111,2088,82,1872,61,1675,48,1517,41"/>
+<area shape="rect" id="Node000022" href="$Twihs_8h.html" title=" " alt="" coords="2007,196,2171,221"/>
+<area shape="poly" id="edge23_Node000001_Node000022" title=" " alt="" coords="1518,31,1768,33,2065,43,2205,52,2324,65,2414,83,2444,94,2463,106,2470,117,2472,128,2463,150,2443,165,2415,177,2339,195,2252,204,2171,209,2171,204,2252,199,2338,189,2413,172,2440,160,2459,146,2467,128,2465,119,2459,110,2441,98,2412,88,2324,70,2204,57,2065,48,1768,38,1518,36"/>
+<area shape="rect" id="Node000023" href="$Uart_8h.html" title=" " alt="" coords="2524,115,2672,141"/>
+<area shape="poly" id="edge25_Node000001_Node000023" title=" " alt="" coords="1518,34,1708,41,1954,54,2229,75,2505,105,2548,113,2547,118,2504,111,2228,80,1954,60,1708,47,1518,40"/>
+<area shape="rect" id="Node000024" href="$Xdmac_8h.html" title=" " alt="" coords="2696,115,2879,141"/>
+<area shape="poly" id="edge26_Node000001_Node000024" title=" " alt="" coords="1518,33,1737,40,2027,52,2355,73,2685,105,2732,113,2731,118,2684,111,2354,79,2027,57,1737,45,1518,39"/>
+<area shape="rect" id="Node000004" href="$Dacc_8h.html" title=" " alt="" coords="193,196,349,221"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="276,162,274,196,269,196,270,162"/>
+<area shape="rect" id="Node000006" href="$Eefc_2ChipConfig_8h.html" title="Utility file to ease working with chip config .conf files." alt="" coords="373,196,564,221"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="470,154,471,196,466,196,464,155"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="732,230,770,275,766,278,728,234"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="714,154,714,196,709,196,709,154"/>
+<area shape="rect" id="Node000013" href="$Pio_8h.html" title=" " alt="" coords="1237,196,1369,221"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="1306,162,1306,196,1301,196,1301,162"/>
+<area shape="rect" id="Node000014" href="$TwihsWorkaround_8h_source.html" title=" " alt="" coords="1601,269,1790,309"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="1374,221,1602,267,1601,272,1373,227"/>
+<area shape="rect" id="Node000016" href="$Pmc_2ChipConfig_8h.html" title="Utility file to ease working with chip config .conf files." alt="" coords="1395,196,1585,221"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="1493,154,1493,196,1487,196,1487,154"/>
+<area shape="poly" id="edge24_Node000022_Node000014" title=" " alt="" coords="2019,227,1790,272,1789,267,2018,221"/>
+</map>

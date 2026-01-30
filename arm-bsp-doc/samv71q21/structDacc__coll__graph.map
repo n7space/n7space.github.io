@@ -1,0 +1,11 @@
+<map id="Dacc" name="Dacc">
+<area shape="rect" id="Node000001" title="Structure representing DACC." alt="" coords="193,211,247,236"/>
+<area shape="rect" id="Node000002" href="$structDacc__Registers.html" title="Structure describing Dacc registers." alt="" coords="5,93,128,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,127,119,156,155,184,196,208,194,213,152,189,115,160,85,131"/>
+<area shape="rect" id="Node000003" href="$structDacc__SampleFifo.html" title="Structure representing single DACC sample queue." alt="" coords="153,93,287,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,132,223,211,217,211,217,132"/>
+<area shape="rect" id="Node000004" href="$structStructFifo.html" title="Structure representing single queue instance." alt="" coords="178,5,262,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="223,45,223,93,217,93,217,45"/>
+<area shape="rect" id="Node000005" href="$structDacc__Handler.html" title="DACC callback handler used with async operations and interrupts." alt="" coords="312,93,424,119"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="366,133,356,162,337,189,316,203,293,213,248,223,247,217,291,208,313,198,333,185,351,159,361,131"/>
+</map>

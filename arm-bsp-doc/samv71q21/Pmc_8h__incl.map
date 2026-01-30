@@ -1,0 +1,18 @@
+<map id="n7s/bsp/Pmc/Pmc.h" name="n7s/bsp/Pmc/Pmc.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="198,5,346,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,152,88,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,25,164,31,129,42,96,58,67,80,58,93,53,108,48,139,43,138,48,107,54,91,63,77,93,53,127,37,162,26,197,20"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="237,152,307,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="275,31,275,138,269,138,269,31"/>
+<area shape="rect" id="Node000004" href="$ErrorCode_8h.html" title=" " alt="" coords="77,79,235,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="255,33,188,74,185,69,252,28"/>
+<area shape="rect" id="Node000006" href="$PmcPeripheralId_8h_source.html" title=" " alt="" coords="310,79,450,104"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="291,28,352,69,349,73,288,33"/>
+<area shape="rect" id="Node000007" href="$PmcRegisters_8h_source.html" title=" " alt="" coords="475,79,597,104"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="315,28,481,72,479,78,314,33"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="140,106,78,147,75,142,137,102"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="176,102,243,142,240,147,173,106"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="119,152,193,177"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="159,104,159,138,153,138,153,104"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="494,107,321,153,320,148,493,101"/>
+</map>

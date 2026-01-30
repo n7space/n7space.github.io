@@ -1,0 +1,11 @@
+<map id="Isi_Config" name="Isi_Config">
+<area shape="rect" id="Node000001" title="Structure representing ISI configuration." alt="" coords="310,93,395,119"/>
+<area shape="rect" id="Node000002" href="$structIsi__ImageConfig.html" title="Structure representing ISI image configuration." alt="" coords="5,5,132,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,35,178,67,247,85,310,96,310,102,246,90,176,72,101,40"/>
+<area shape="rect" id="Node000003" href="$structIsi__Y2RConversionMatrix.html" title="Structure describing YCrCb to RGB Conversion Matrix configuration." alt="" coords="157,5,341,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,41,284,67,302,81,323,91,320,96,300,85,280,71,259,45"/>
+<area shape="rect" id="Node000004" href="$structIsi__R2YConversionMatrix.html" title="Structure describing RGB to YCrCb Conversion Matrix Configuration." alt="" coords="365,5,548,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="449,45,429,71,410,85,389,96,386,91,407,81,425,67,444,42"/>
+<area shape="rect" id="Node000005" href="$structIsi__InterruptConfig.html" title="Structure representing ISI interrupts configuration." alt="" coords="573,5,714,31"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="626,43,607,58,586,72,537,89,486,100,396,108,395,102,485,95,535,84,584,67,604,54,622,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Pwm_Config" name="Pwm_Config">
+<area shape="rect" id="Node000001" title="Structure holding a PWM instance configuration." alt="" coords="54,93,157,119"/>
+<area shape="rect" id="Node000002" href="$structPwm__ExternalTriggerConfig.html" title="Structure holding a PWM External Trigger configuration." alt="" coords="5,5,205,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,45,108,93,103,93,103,45"/>
+</map>

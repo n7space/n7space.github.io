@@ -1,0 +1,5 @@
+<map id="Afec_InterruptHandler" name="Afec_InterruptHandler">
+<area shape="rect" id="Node000001" title="Structure representing AFEC interrupt handler." alt="" coords="5,93,171,119"/>
+<area shape="rect" id="Node000002" href="$structAfec__Handler.html" title="Structure describing AFEC handler definition." alt="" coords="33,5,143,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,45,91,93,85,93,85,45"/>
+</map>

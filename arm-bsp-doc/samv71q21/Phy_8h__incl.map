@@ -1,0 +1,38 @@
+<map id="n7s/bsp/Gmac/Phy/Phy.h" name="n7s/bsp/Gmac/Phy/Phy.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="106,5,286,31"/>
+<area shape="rect" id="Node000002" href="$Gmac_8h.html" title=" " alt="" coords="269,79,353,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,28,282,69,279,74,213,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="22,299,104,324"/>
+<area shape="poly" id="edge23_Node000001_Node000003" title=" " alt="" coords="179,33,139,62,90,105,43,161,24,192,11,226,8,238,11,250,23,270,39,288,35,291,18,273,6,252,3,238,6,225,19,190,38,158,86,102,136,58,176,29"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="665,299,736,324"/>
+<area shape="poly" id="edge24_Node000001_Node000005" title=" " alt="" coords="287,20,440,32,619,55,705,71,781,93,842,119,865,134,882,150,894,174,892,196,879,218,858,237,804,271,747,296,745,291,801,266,855,233,875,214,887,195,889,175,878,154,861,138,839,123,779,98,703,77,618,60,440,37,286,26"/>
+<area shape="rect" id="Node000006" href="$ErrorCode_8h.html" title=" " alt="" coords="42,225,199,251"/>
+<area shape="poly" id="edge25_Node000001_Node000006" title=" " alt="" coords="195,32,131,213,126,211,190,30"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="269,100,210,112,140,135,105,152,72,172,43,197,20,227,15,242,19,257,41,287,36,290,14,260,10,242,15,224,40,193,69,168,102,147,138,130,208,107,268,95"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="316,299,391,324"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="317,104,331,151,353,285,348,286,326,153,312,105"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="353,94,463,111,528,127,590,150,653,176,676,194,697,224,706,255,707,285,701,285,701,256,692,227,672,198,650,181,589,154,526,132,462,116,353,99"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="289,106,252,127,211,154,174,186,142,217,139,213,170,182,208,150,249,123,287,102"/>
+<area shape="rect" id="Node000007" href="$GmacBufferDescriptors_8h.html" title=" " alt="" coords="392,152,577,177"/>
+<area shape="poly" id="edge9_Node000002_Node000007" title=" " alt="" coords="340,102,444,144,442,149,338,106"/>
+<area shape="rect" id="Node000009" href="$GmacPhy_8h.html" title=" " alt="" coords="221,152,316,177"/>
+<area shape="poly" id="edge16_Node000002_Node000009" title=" " alt="" coords="306,106,284,142,280,139,302,103"/>
+<area shape="rect" id="Node000011" href="$GmacRegisters_8h.html" title=" " alt="" coords="735,152,868,177"/>
+<area shape="poly" id="edge21_Node000002_Node000011" title=" " alt="" coords="353,96,721,149,720,154,353,101"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="113,253,83,290,79,286,109,249"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="158,248,304,292,302,297,157,253"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="199,246,213,248,651,301,651,307,212,253,199,252"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="468,180,408,216,329,253,274,271,218,286,118,305,117,300,217,280,273,266,327,248,406,211,465,175"/>
+<area shape="poly" id="edge11_Node000007_Node000004" title=" " alt="" coords="479,179,456,213,425,252,381,292,378,288,421,249,452,210,475,176"/>
+<area shape="poly" id="edge12_Node000007_Node000005" title=" " alt="" coords="572,175,623,193,648,206,670,224,690,253,699,284,694,286,685,255,666,227,645,211,621,198,570,180"/>
+<area shape="rect" id="Node000008" href="$Bits_8h.html" title=" " alt="" coords="493,225,612,251"/>
+<area shape="poly" id="edge13_Node000007_Node000008" title=" " alt="" coords="497,176,533,213,530,217,493,180"/>
+<area shape="poly" id="edge14_Node000008_Node000003" title=" " alt="" coords="493,251,119,305,118,299,492,245"/>
+<area shape="poly" id="edge15_Node000008_Node000005" title=" " alt="" coords="577,248,665,290,663,295,575,253"/>
+<area shape="poly" id="edge17_Node000009_Node000003" title=" " alt="" coords="221,174,111,192,61,208,43,217,32,227,26,241,28,256,45,287,40,289,23,258,21,240,27,224,40,213,59,203,110,187,220,168"/>
+<area shape="poly" id="edge18_Node000009_Node000005" title=" " alt="" coords="316,169,494,195,578,210,625,223,662,252,688,285,684,288,658,256,623,228,577,215,494,200,315,175"/>
+<area shape="poly" id="edge19_Node000009_Node000006" title=" " alt="" coords="246,180,158,222,155,217,243,175"/>
+<area shape="rect" id="Node000010" href="$GmacMii_8h.html" title=" " alt="" coords="224,225,316,251"/>
+<area shape="poly" id="edge20_Node000009_Node000010" title=" " alt="" coords="271,178,272,212,266,212,266,178"/>
+<area shape="poly" id="edge22_Node000011_Node000005" title=" " alt="" coords="802,179,791,213,772,252,752,274,731,292,728,288,749,270,767,249,786,211,796,177"/>
+</map>

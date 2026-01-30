@@ -1,0 +1,9 @@
+<map id="Lpow" name="Lpow">
+<area shape="rect" id="Node000001" title="Structure representing Low Power (Lpow) driver." alt="" coords="174,93,230,119"/>
+<area shape="rect" id="Node000002" href="$structScb__Registers.html" title="System control registers." alt="" coords="5,5,119,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,36,139,67,182,91,179,96,137,72,88,41"/>
+<area shape="rect" id="Node000003" href="$structPmc__Registers.html" title="Structure mapping PMC registers." alt="" coords="143,5,261,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,45,205,93,199,93,199,45"/>
+<area shape="rect" id="Node000004" href="$structSupc__Registers.html" title="Structure representing SUPC registers." alt="" coords="285,5,407,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="321,41,274,72,229,95,226,91,271,67,318,36"/>
+</map>

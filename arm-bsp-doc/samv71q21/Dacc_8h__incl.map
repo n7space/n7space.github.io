@@ -1,0 +1,28 @@
+<map id="n7s/bsp/Dacc/Dacc.h" name="n7s/bsp/Dacc/Dacc.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="227,5,383,31"/>
+<area shape="rect" id="Node000002" href="$samv71q21_2Dacc_8h.html" title=" " alt="" coords="211,79,399,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="308,31,308,65,303,65,303,31"/>
+<area shape="rect" id="Node000003" href="$ErrorCode_8h.html" title=" " alt="" coords="5,240,163,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="279,121,114,234,111,230,276,117"/>
+<area shape="rect" id="Node000007" href="$DaccConstants_8h.html" title=" " alt="" coords="187,240,317,265"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="299,120,280,168,261,227,256,226,275,166,294,118"/>
+<area shape="rect" id="Node000008" href="$DaccRegisters_8h.html" title=" " alt="" coords="461,167,587,192"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="359,116,480,159,478,164,357,121"/>
+<area shape="rect" id="Node000009" href="$DaccSampleFifo_8h.html" title=" " alt="" coords="289,167,428,192"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="320,117,345,153,341,156,316,120"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="100,313,183,339"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="96,264,125,301,121,304,91,267"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="227,313,301,339"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="114,263,223,306,221,311,112,268"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="335,313,406,339"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="131,263,323,310,321,315,129,268"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="528,193,526,228,520,248,510,267,496,279,473,291,420,312,418,307,471,286,493,274,506,264,515,246,521,227,522,192"/>
+<area shape="poly" id="edge15_Node000009_Node000007" title=" " alt="" coords="343,194,282,235,279,230,340,190"/>
+<area shape="rect" id="Node000010" href="$StructFifo_8h.html" title=" " alt="" coords="341,240,496,265"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="371,191,402,228,398,231,367,194"/>
+<area shape="poly" id="edge11_Node000010_Node000004" title=" " alt="" coords="375,268,197,313,196,308,373,263"/>
+<area shape="poly" id="edge12_Node000010_Node000005" title=" " alt="" coords="395,268,303,310,301,305,393,263"/>
+<area shape="poly" id="edge13_Node000010_Node000006" title=" " alt="" coords="413,267,388,304,384,301,409,264"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="430,313,501,339"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="429,264,452,300,448,303,424,267"/>
+</map>

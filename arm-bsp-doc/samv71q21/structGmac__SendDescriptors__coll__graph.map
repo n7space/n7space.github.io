@@ -1,0 +1,5 @@
+<map id="Gmac_SendDescriptors" name="Gmac_SendDescriptors">
+<area shape="rect" id="Node000001" title="Structure holding descriptors for use with Gmac_send() function." alt="" coords="30,93,203,119"/>
+<area shape="rect" id="Node000002" href="$structGmac__TxBufferDescriptorEntry.html" title="TX buffer descriptor queue entry." alt="" coords="5,5,228,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,45,119,93,114,93,114,45"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="n7s/bsp/Gmac/GmacPhy.h" name="n7s/bsp/Gmac/GmacPhy.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="118,5,309,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,152,88,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,33,105,51,85,64,67,80,54,108,49,138,44,137,48,107,63,77,82,60,103,46,148,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="227,152,298,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,30,249,78,263,138,257,139,244,80,219,32"/>
+<area shape="rect" id="Node000004" href="$ErrorCode_8h.html" title=" " alt="" coords="77,79,235,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,33,176,70,172,66,202,29"/>
+<area shape="rect" id="Node000006" href="$GmacMii_8h.html" title=" " alt="" coords="310,79,402,104"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="237,28,322,70,319,75,235,33"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="140,106,78,147,75,142,137,102"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="175,102,235,142,232,147,172,106"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="119,152,193,177"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="159,104,159,138,153,138,153,104"/>
+</map>

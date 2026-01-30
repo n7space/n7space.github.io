@@ -1,0 +1,10 @@
+<map id="n7s/bsp/Dacc/samv71q21/DaccConstants.h" name="n7s/bsp/Dacc/samv71q21/DaccConstants.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,193,45"/>
+<area shape="rect" id="Node000002" href="$samv71q21_2Dacc_8h.html" title=" " alt="" coords="5,181,193,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,58,62,94,58,113,62,133,72,158,86,179,82,182,68,160,57,134,53,113,57,93,74,56"/>
+<area shape="rect" id="Node000004" href="$DaccSampleFifo_8h.html" title=" " alt="" coords="72,93,260,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="125,55,153,91,149,95,120,58"/>
+<area shape="rect" id="Node000003" href="$Dacc_8h.html" title=" " alt="" coords="21,269,177,295"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,235,102,269,97,269,97,235"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="145,146,116,183,112,179,141,143"/>
+</map>

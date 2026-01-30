@@ -1,0 +1,7 @@
+<map id="Tic" name="Tic">
+<area shape="rect" id="Node000001" title="Structure describing Tic." alt="" coords="66,181,107,207"/>
+<area shape="rect" id="Node000002" href="$structTic__Registers.html" title="Structure describing TC registers." alt="" coords="32,93,141,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,133,89,181,84,181,84,133"/>
+<area shape="rect" id="Node000003" href="$structTic__ChannelRegisters.html" title="Structure describing TC Channel registers." alt="" coords="5,5,168,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,45,89,93,84,93,84,45"/>
+</map>

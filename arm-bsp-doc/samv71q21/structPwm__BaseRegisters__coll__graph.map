@@ -1,0 +1,9 @@
+<map id="Pwm_BaseRegisters" name="Pwm_BaseRegisters">
+<area shape="rect" id="Node000001" title="Structure representing PWM base registers." alt="" coords="240,93,395,119"/>
+<area shape="rect" id="Node000002" href="$structPwm__ComparisonRegisters.html" title="Structure representing a PWM comparison configuration registers." alt="" coords="5,5,205,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,34,225,67,287,91,286,96,223,72,143,39"/>
+<area shape="rect" id="Node000003" href="$structPwm__ChannelRegisters.html" title="Structure representing PWM Channel specific registers." alt="" coords="230,5,405,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="320,45,320,93,315,93,315,45"/>
+<area shape="rect" id="Node000004" href="$structPwm__AdditionalChannelRegisters.html" title=" " alt="" coords="429,5,670,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="506,38,349,96,348,91,504,33"/>
+</map>

@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['sdramc_5fcaslatency_0',['Sdramc_CasLatency',['../group__Sdramc.html#gac0264087a5d55f4842b1fc0cbb35d7a8',1,'Sdramc.h']]],
+  ['sdramc_5fcommandmode_1',['Sdramc_CommandMode',['../group__Sdramc.html#gacfa0923d22fb653e73b3cde55d2cb934',1,'Sdramc.h']]],
+  ['sdramc_5ferrorcode_2',['Sdramc_ErrorCode',['../group__Sdramc.html#ga2d72009795c3cb695f783769d8775831',1,'Sdramc.h']]],
+  ['sdramc_5flowpowerconfiguration_3',['Sdramc_LowPowerConfiguration',['../group__Sdramc.html#gaa0ddf400014cee9bb16ec9f7d5a8c221',1,'Sdramc.h']]],
+  ['sdramc_5flowpowerenabletimeout_4',['Sdramc_LowPowerEnableTimeout',['../group__Sdramc.html#gab7007640533393864590974e097745c1',1,'Sdramc.h']]],
+  ['sdramc_5fmemorydevicetype_5',['Sdramc_MemoryDeviceType',['../group__Sdramc.html#ga57a666fcc4f99a77ad139573c1340302',1,'Sdramc.h']]],
+  ['sdramc_5fnumberofbanks_6',['Sdramc_NumberOfBanks',['../group__Sdramc.html#ga277985a7d771be8bba42eb616808ac06',1,'Sdramc.h']]],
+  ['sdramc_5fnumberofcolumnbits_7',['Sdramc_NumberOfColumnBits',['../group__Sdramc.html#ga574f2c9a1fee76c182422a10da6d6964',1,'Sdramc.h']]],
+  ['sdramc_5fnumberofrowbits_8',['Sdramc_NumberOfRowBits',['../group__Sdramc.html#ga1d2c4446252a99984dafe4f97c2e8087',1,'Sdramc.h']]],
+  ['sdramc_5fsupportunalignedaccess_9',['Sdramc_SupportUnalignedAccess',['../group__Sdramc.html#ga03629a7c289321a384d434786b2f1494',1,'Sdramc.h']]],
+  ['spi_5fchip_10',['Spi_Chip',['../group__Spi.html#ga059b1161585f4b0c29391c7cad9503dd',1,'Spi.h']]],
+  ['spi_5fclockphase_11',['Spi_ClockPhase',['../group__Spi.html#gadea7c835c869ffb3fdd851886f9ea54b',1,'Spi.h']]],
+  ['spi_5fclockpolarity_12',['Spi_ClockPolarity',['../group__Spi.html#ga75dca52a76cb5e1f1ef130f5ebe9386a',1,'Spi.h']]],
+  ['spi_5ferrorcode_13',['Spi_ErrorCode',['../group__Spi.html#gaa1e0008267d10407fa5cf25272fbb2d7',1,'Spi.h']]],
+  ['spi_5fid_14',['Spi_Id',['../group__Spi.html#gab775d82605066d4df07b62d0cf2aa855',1,'Spi.h']]],
+  ['spi_5fperipheralselect_15',['Spi_PeripheralSelect',['../group__Spi.html#gaff2af0c61bd45121fd21eb47e98b667f',1,'Spi.h']]],
+  ['spi_5fwordsize_16',['Spi_WordSize',['../group__Spi.html#ga117f492370896058057d4928933dfd8f',1,'Spi.h']]],
+  ['supc_5flowpowerdebouncerperiod_17',['Supc_LowPowerDebouncerPeriod',['../group__Supc.html#ga767933bdee82b22c929aa56a0f9431c0',1,'Supc.h']]],
+  ['supc_5fsupplymonitorsamplingperiod_18',['Supc_SupplyMonitorSamplingPeriod',['../group__Supc.html#gabd57d3de18129aa50d74962d69357b20',1,'Supc.h']]],
+  ['supc_5fvoltagethreshold_19',['Supc_VoltageThreshold',['../group__Supc.html#gaf746996195dbc077ff3d19c71db52453',1,'Supc.h']]],
+  ['supc_5fwakeupinputid_20',['Supc_WakeupInputId',['../group__Supc.html#gaa2de353e5a24274a5d5327f03bc5d261',1,'Supc.h']]],
+  ['supc_5fwakeupinputsdebouncerperiod_21',['Supc_WakeupInputsDebouncerPeriod',['../group__Supc.html#ga6fca333d29d420ead3ab0a63452acd8b',1,'Supc.h']]],
+  ['supc_5fwakeupinputtype_22',['Supc_WakeupInputType',['../group__Supc.html#ga082f8117a10a007341fc4f18d6c5892c',1,'Supc.h']]],
+  ['systick_5fclocksource_23',['Systick_ClockSource',['../group__Systick.html#ga080ceb67639b9e831a70693c29d3330f',1,'Systick.h']]]
+];

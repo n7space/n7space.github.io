@@ -1,0 +1,7 @@
+<map id="Qspi_Config" name="Qspi_Config">
+<area shape="rect" id="Node000001" title="The Qspi configuration." alt="" coords="85,93,184,119"/>
+<area shape="rect" id="Node000002" href="$structQspi__FlashApi.html" title="The flash specific configuration ." alt="" coords="5,5,120,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,39,127,91,123,95,79,43"/>
+<area shape="rect" id="Node000003" href="$structQspi__Command.html" title="Qspi command structure." alt="" coords="144,5,269,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,44,169,71,148,95,144,91,165,68,187,40"/>
+</map>

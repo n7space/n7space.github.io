@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['tic_0',['Tic',['../structTic.html',1,'']]],
+  ['tic_5fcapturemodeconfig_1',['Tic_CaptureModeConfig',['../structTic__CaptureModeConfig.html',1,'']]],
+  ['tic_5fchannelconfig_2',['Tic_ChannelConfig',['../structTic__ChannelConfig.html',1,'']]],
+  ['tic_5fchannelirqconfig_3',['Tic_ChannelIrqConfig',['../structTic__ChannelIrqConfig.html',1,'']]],
+  ['tic_5fchannelregisters_4',['Tic_ChannelRegisters',['../structTic__ChannelRegisters.html',1,'']]],
+  ['tic_5fchannelstatus_5',['Tic_ChannelStatus',['../structTic__ChannelStatus.html',1,'']]],
+  ['tic_5fexternalclocksignalselection_6',['Tic_ExternalClockSignalSelection',['../structTic__ExternalClockSignalSelection.html',1,'']]],
+  ['tic_5fregisters_7',['Tic_Registers',['../structTic__Registers.html',1,'']]],
+  ['tic_5fwaveformmodeconfig_8',['Tic_WaveformModeConfig',['../structTic__WaveformModeConfig.html',1,'']]],
+  ['twihs_9',['Twihs',['../structTwihs.html',1,'']]],
+  ['twihs_5fconfig_10',['Twihs_Config',['../structTwihs__Config.html',1,'']]],
+  ['twihs_5ferrorflags_11',['Twihs_ErrorFlags',['../structTwihs__ErrorFlags.html',1,'']]],
+  ['twihs_5ferrorhandler_12',['Twihs_ErrorHandler',['../structTwihs__ErrorHandler.html',1,'']]],
+  ['twihs_5fregisters_13',['Twihs_Registers',['../structTwihs__Registers.html',1,'']]],
+  ['twihs_5frxhandler_14',['Twihs_RxHandler',['../structTwihs__RxHandler.html',1,'']]],
+  ['twihs_5fsmbusconfig_15',['Twihs_SMBusConfig',['../structTwihs__SMBusConfig.html',1,'']]],
+  ['twihs_5ftxhandler_16',['Twihs_TxHandler',['../structTwihs__TxHandler.html',1,'']]],
+  ['twihsworkaround_17',['TwihsWorkaround',['../structTwihsWorkaround.html',1,'']]]
+];
