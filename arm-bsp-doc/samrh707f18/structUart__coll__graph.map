@@ -1,0 +1,18 @@
+<map id="Uart" name="Uart">
+<area shape="rect" id="Node000001" title="Uart device descriptor." alt="" coords="318,185,369,211"/>
+<area shape="rect" id="Node000002" href="$structUart__TxHandler.html" title="A descriptor of an end&#45;of&#45;transmission event handler." alt="" coords="68,95,192,121"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,125,226,159,275,176,319,188,317,193,273,181,224,164,158,130"/>
+<area shape="rect" id="Node000003" href="$structByteFifo.html" title="Structure representing single queue instance." alt="" coords="8,5,84,31"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="30,43,19,62,11,83,9,103,16,121,37,137,69,151,154,172,247,185,318,192,318,198,246,191,153,177,67,156,34,142,12,124,3,104,6,81,14,60,26,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="68,39,121,93,117,97,64,42"/>
+<area shape="rect" id="Node000004" href="$structUart__RxHandler.html" title="A descriptor of a byte reception event handler." alt="" coords="217,95,342,121"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="293,132,311,160,333,183,329,187,307,163,289,135"/>
+<area shape="rect" id="Node000005" href="$structUart__ErrorHandler.html" title="A descriptor of an error handler." alt="" coords="366,95,505,121"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="415,132,358,187,354,183,412,128"/>
+<area shape="rect" id="Node000006" href="$structUart__ErrorFlags.html" title="Uart error flags." alt="" coords="374,5,497,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="438,44,438,95,433,95,433,44"/>
+<area shape="rect" id="Node000007" href="$structUart__Registers.html" title=" " alt="" coords="529,95,648,121"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="558,130,487,164,424,183,370,195,369,190,423,178,485,159,556,125"/>
+<area shape="rect" id="Node000008" href="$structUart__Config.html" title="Uart configuration descriptor." alt="" coords="673,95,771,121"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="685,129,637,147,584,164,464,187,369,197,369,192,464,181,583,159,636,142,683,124"/>
+</map>

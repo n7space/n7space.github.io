@@ -1,0 +1,7 @@
+<map id="Hsmc" name="Hsmc">
+<area shape="rect" id="Node000001" title="Structure representing HSMC." alt="" coords="52,181,111,207"/>
+<area shape="rect" id="Node000002" href="$structHsmc__Registers.html" title="Structure representing HSMC registers." alt="" coords="18,93,145,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,133,84,181,79,181,79,133"/>
+<area shape="rect" id="Node000003" href="$structChipSelectRegisters.html" title="Structure representing Chip Select (NCS) Registers." alt="" coords="5,5,157,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="84,45,84,93,79,93,79,45"/>
+</map>

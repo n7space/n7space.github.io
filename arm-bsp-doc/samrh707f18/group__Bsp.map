@@ -1,0 +1,32 @@
+<map id="Bsp" name="Bsp">
+<area shape="rect" id="Node000002" href="$group__Adc.html" title=" " alt="" coords="126,5,173,31"/>
+<area shape="rect" id="Node000001" title="Header for the Analog&#45;to&#45;Digital Controller (ADC) driver." alt="" coords="5,696,52,721"/>
+<area shape="rect" id="Node000003" href="$group__Dacc.html" title=" " alt="" coords="122,55,177,80"/>
+<area shape="rect" id="Node000004" href="$group__DaccFifo.html" title=" " alt="" coords="110,104,189,129"/>
+<area shape="rect" id="Node000022" href="$group__Flexcom.html" title=" " alt="" coords="110,153,189,179"/>
+<area shape="rect" id="Node000024" href="$group__FlexramEcc.html" title=" " alt="" coords="100,203,199,228"/>
+<area shape="rect" id="Node000019" href="$group__Fpu.html" title=" " alt="" coords="126,252,173,277"/>
+<area shape="rect" id="Node000023" href="$group__Hefc.html" title=" " alt="" coords="123,301,175,327"/>
+<area shape="rect" id="Node000028" href="$group__Hemc.html" title=" " alt="" coords="119,351,179,376"/>
+<area shape="rect" id="Node000029" href="$group__Hsmc.html" title=" " alt="" coords="120,400,179,425"/>
+<area shape="rect" id="Node000005" href="$group__Matrix.html" title=" " alt="" coords="117,449,181,475"/>
+<area shape="rect" id="Node000006" href="$group__Mcan.html" title=" " alt="" coords="121,499,178,524"/>
+<area shape="rect" id="Node000007" href="$group__Mpu.html" title=" " alt="" coords="124,548,175,573"/>
+<area shape="rect" id="Node000008" href="$group__Nvic.html" title=" " alt="" coords="124,597,175,623"/>
+<area shape="rect" id="Node000009" href="$group__Pio.html" title=" " alt="" coords="128,647,171,672"/>
+<area shape="rect" id="Node000010" href="$group__Pmc.html" title=" " alt="" coords="124,696,175,721"/>
+<area shape="rect" id="Node000011" href="$group__Pwm.html" title=" " alt="" coords="122,745,177,771"/>
+<area shape="rect" id="Node000012" href="$group__Rstc.html" title=" " alt="" coords="124,795,175,820"/>
+<area shape="rect" id="Node000013" href="$group__Rtc.html" title=" " alt="" coords="128,844,171,869"/>
+<area shape="rect" id="Node000014" href="$group__Scb.html" title=" " alt="" coords="127,893,172,919"/>
+<area shape="rect" id="Node000015" href="$group__Spi.html" title=" " alt="" coords="128,943,171,968"/>
+<area shape="rect" id="Node000025" href="$group__Spw.html" title=" " alt="" coords="125,992,174,1017"/>
+<area shape="rect" id="Node000026" href="$group__Supc.html" title=" " alt="" coords="123,1041,176,1067"/>
+<area shape="rect" id="Node000027" href="$group__Systick.html" title=" " alt="" coords="115,1091,184,1116"/>
+<area shape="rect" id="Node000020" href="$group__Tcm.html" title=" " alt="" coords="125,1140,173,1165"/>
+<area shape="rect" id="Node000021" href="$group__TcmHecc.html" title=" " alt="" coords="109,1189,189,1215"/>
+<area shape="rect" id="Node000016" href="$group__Tic.html" title=" " alt="" coords="129,1239,170,1264"/>
+<area shape="rect" id="Node000017" href="$group__Uart.html" title=" " alt="" coords="124,1288,175,1313"/>
+<area shape="rect" id="Node000018" href="$group__Wdt.html" title=" " alt="" coords="125,1337,173,1363"/>
+<area shape="rect" id="Node000030" href="$group__Xdmac.html" title=" " alt="" coords="116,1387,183,1412"/>
+</map>

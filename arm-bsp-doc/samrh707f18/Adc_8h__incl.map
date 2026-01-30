@@ -1,0 +1,16 @@
+<map id="n7s/bsp/Adc/Adc.h" name="n7s/bsp/Adc/Adc.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="143,5,283,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,152,88,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,33,105,51,85,64,67,80,54,108,49,138,44,137,48,107,63,77,82,60,103,46,148,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="237,152,307,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,29,249,78,269,137,264,139,244,80,218,32"/>
+<area shape="rect" id="Node000004" href="$ErrorCode_8h.html" title=" " alt="" coords="77,79,235,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,33,176,70,172,66,202,29"/>
+<area shape="rect" id="Node000006" href="$AdcRegisters_8h.html" title=" " alt="" coords="310,79,429,104"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="239,28,332,70,330,75,237,33"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="140,106,78,147,75,142,137,102"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="176,102,243,142,240,147,173,106"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="119,152,193,177"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="159,104,159,138,153,138,153,104"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="355,106,301,146,298,141,352,102"/>
+</map>

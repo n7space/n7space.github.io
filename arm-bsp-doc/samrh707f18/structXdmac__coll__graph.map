@@ -1,0 +1,7 @@
+<map id="Xdmac" name="Xdmac">
+<area shape="rect" id="Node000001" title="A structure used as a device driver descriptor for XDMAC." alt="" coords="66,181,133,207"/>
+<area shape="rect" id="Node000002" href="$structXdmac__Registers.html" title=" " alt="" coords="32,93,167,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,133,102,181,97,181,97,133"/>
+<area shape="rect" id="Node000003" href="$structXdmac__ChannelRegisters.html" title=" " alt="" coords="5,5,193,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,45,102,93,97,93,97,45"/>
+</map>

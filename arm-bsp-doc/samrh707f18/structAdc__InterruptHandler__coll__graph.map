@@ -1,0 +1,5 @@
+<map id="Adc_InterruptHandler" name="Adc_InterruptHandler">
+<area shape="rect" id="Node000001" title="Structure representing ADC interrupt handler." alt="" coords="5,93,165,119"/>
+<area shape="rect" id="Node000002" href="$structAdc__Handler.html" title="Structure describing ADC handler definition." alt="" coords="33,5,137,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,45,88,93,83,93,83,45"/>
+</map>

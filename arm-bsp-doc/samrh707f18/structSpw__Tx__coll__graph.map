@@ -1,0 +1,5 @@
+<map id="Spw_Tx" name="Spw_Tx">
+<area shape="rect" id="Node000001" title="Structure representing a Spacewire tx instance." alt="" coords="50,93,122,119"/>
+<area shape="rect" id="Node000002" href="$structSpw__PktTx__Registers.html" title="Structure representing Spacewire PktTx 1 registers." alt="" coords="5,5,167,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,45,89,93,83,93,83,45"/>
+</map>
