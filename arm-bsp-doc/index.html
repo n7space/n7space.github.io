@@ -133,6 +133,24 @@
 				text-transform: uppercase;
 				font-weight: 700;
 			}
+			/*fix header on mobile*/
+			@media (max-width: 600px) {
+        	header {
+           		flex-direction: column;
+            	text-align: center;
+            	gap: 1rem;
+            	padding: 1.5rem;
+        	}
+        	.logo {
+            	max-width: 80px;
+        	}
+        	h1 {
+            	font-size: 1.4rem;
+        	}
+        	body {
+            	padding: 0.5rem; /* Optional: reduces body padding so container is wider on mobile */
+        	}
+    }
     </style>
   </head>
   <body>
